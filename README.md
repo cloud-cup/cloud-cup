@@ -124,8 +124,3 @@ Here’s what’s coming next for Cloud Cup:
 
 Contributions, bug reports, and feature requests are welcome! Please submit them via GitHub Issues. efer to the [Configuration Guide](https://cloud-cup.netlify.app/docs/5_contribute)
 
-## Sponsors and Funding
-
-Cloud Cup is an early-stage project with immense potential. We’re actively seeking sponsors and funding to take Cloud Cup to the next level.
-Support the development of Cloud Cup by joining our membership program on [Patreon](patreon.com/AliAmer719). 
-**Every contribution helps!**
