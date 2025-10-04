@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6b5aae46-2ac0-4c2f-a98c-675f2bf02350"  alt="Cloud Cup">
-     <h3>Cloud Cup</h3>
-  <p><strong>A High-Performance Reverse Proxy Built in Zig </strong></p>
+  <img src="https://github.com/user-attachments/assets/995be885-ec69-4d17-b177-8105eb7c09da" height="350" alt="VolcAPI" />
+  <p><strong>OpenAPI-Native API Testing Tool Built in Go</strong></p>
 </div>
 
 
